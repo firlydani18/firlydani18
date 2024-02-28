@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text= I am Firlydani Syifana Putra &animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Firlydani+Syifana+Putra!!+😊;" />
+</h1>
 ### Hi there, i'm Firlydani Syifana Putra 👋
 
 
