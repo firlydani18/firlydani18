@@ -34,8 +34,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-royalblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firlydani-syifana-putra)
 [![Telegram](https://img.shields.io/badge/telegram-deepskyblue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Firlydani18)
+<a href="mailto: halimahkurnia24@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </div>
-
+### 📝Contact me!
+<p>
+    <a href="mailto: firlydanisyifanaputra@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+</p>
 ## GitHub Stats ⭐
 <div align="left"><img src="https://github-stats-tkiw.vercel.app/api?username=firlydani18&show_icons=true&count_private=true" align="center" /></div> 
 
