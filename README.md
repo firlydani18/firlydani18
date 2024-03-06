@@ -27,7 +27,9 @@
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-red.svg?style=for-the-badge&logo=redis&logoColor=white)
-  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
+
 ## You Can Find Me on:
   
 <div align="left"> 
@@ -38,7 +40,7 @@
 </div>
 ### 📝Contact me!
 <p>
-    <a href="mailto: firlydanisyifanaputra@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+[![Gmail Badge](https://img.shields.io/badge/-firlydanisyifanaputra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:firlydanisyifanaputra@gmail.com)](mailto:firlydanisyifanaputra@gmail.com)
 </p>
 ## GitHub Stats ⭐
 <div align="left"><img src="https://github-stats-tkiw.vercel.app/api?username=firlydani18&show_icons=true&count_private=true" align="center" /></div> 
