@@ -30,7 +30,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 
-## You Can Find Me on:
+## You Can Find Me on and Contact me:
   
 <div align="left"> 
 
@@ -39,10 +39,6 @@
 [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:firlydanisyifanaputra@gmail.com)](mailto:firlydanisyifanaputra@gmail.com)
 
 </div>
-### 📝Contact me!
-<p>
-
-</p>
 
 
 ## GitHub Stats ⭐
