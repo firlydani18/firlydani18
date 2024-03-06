@@ -39,9 +39,8 @@
 <a href="mailto: halimahkurnia24@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </div>
 ### 📝Contact me!
-<p>
 [![Gmail Badge](https://img.shields.io/badge/-firlydanisyifanaputra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:firlydanisyifanaputra@gmail.com)](mailto:firlydanisyifanaputra@gmail.com)
-</p>
+
 ## GitHub Stats ⭐
 <div align="left"><img src="https://github-stats-tkiw.vercel.app/api?username=firlydani18&show_icons=true&count_private=true" align="center" /></div> 
 
