@@ -36,11 +36,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-royalblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firlydani-syifana-putra)
 [![Telegram](https://img.shields.io/badge/telegram-deepskyblue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Firlydani18)
+[![Gmail Badge](https://img.shields.io/badge/firlydanisyifanaputra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:firlydanisyifanaputra@gmail.com)](mailto:firlydanisyifanaputra@gmail.com)
+
 <a href="mailto: halimahkurnia24@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </div>
 ### 📝Contact me!
 <p>
-[![Gmail Badge](https://img.shields.io/badge/firlydanisyifanaputra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:firlydanisyifanaputra@gmail.com)](mailto:firlydanisyifanaputra@gmail.com)
+
 </p>
 
 
